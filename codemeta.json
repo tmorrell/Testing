@@ -5,7 +5,6 @@
   "name": "ames",
   "codeRepository": "https://github.com/caltechlibrary/ames",
   "issueTracker": "https://github.com/caltechlibrary/ames/issues",
-  "license": "https://data.caltech.edu/license",
   "version": "0.7.1",
   "author": [
     {
