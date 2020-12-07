@@ -24,7 +24,7 @@
       "@id": "https://orcid.org/0000-0003-0900-6903"
     }
   ],
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
   "developmentStatus": "active",
   "downloadUrl": "https://github.com/caltechlibrary/ames/archive/v0.6.0.zip",
   "keywords": [
