@@ -5,7 +5,7 @@
   "name": "ames",
   "codeRepository": "https://github.com/caltechlibrary/ames",
   "issueTracker": "https://github.com/caltechlibrary/ames/issues",
-  "version": "0.7.1",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
@@ -26,7 +26,7 @@
   ],
   "license": "BSD-3-Clause",
   "developmentStatus": "active",
-  "downloadUrl": "https://github.com/caltechlibrary/ames/archive/v0.6.0.zip",
+  "downloadUrl": "https://github.com/caltechlibrary/ames/archive/v1.0.0.zip",
   "keywords": [
     "GitHub",
     "metadata",
